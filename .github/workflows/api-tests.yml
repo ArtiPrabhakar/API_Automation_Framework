@@ -19,4 +19,4 @@ jobs:
       java-version: '17'
 
    - name: Run API Tests
-    run: mvn test
+     run: mvn test
