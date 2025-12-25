@@ -1,4 +1,4 @@
-name: API Automation Tests
+name: API_Automation_Framework
 
 on:
  push:
