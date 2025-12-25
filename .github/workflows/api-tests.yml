@@ -1,4 +1,4 @@
-name: API_Automation_Framework
+name: API_Automation_Tests
 
 on:
  push:
@@ -10,7 +10,7 @@ jobs:
 
   steps:
    - name: Checkout code
-     uses: actions/setup-java@v4
+     uses: actions/Checkout@v4
 
    - name: Setup Java
      uses: actions/setup-java@v4
